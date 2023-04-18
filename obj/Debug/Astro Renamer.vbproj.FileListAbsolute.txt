@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro_Renamer.MainForm.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro Renamer.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro Renamer.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\bin\Debug\Astro Renamer.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (5)\bin\Debug\Astro Renamer.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\bin\Debug\Astro Renamer.pdb
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro Renamer.vbproj.CopyComplete
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro Renamer.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\obj\Debug\Astro Renamer.pdb
